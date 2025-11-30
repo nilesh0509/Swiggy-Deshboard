@@ -1,1 +1,17 @@
-abcd
+Problem Statement:
+
+    BUsiness Requirement Development (BRD) : KPI's
+        1.Total Sales :- Overall Revanue Generated from food orders
+        2.Average Rating :- Customer Satisfaction level across all restaurants.
+        3.Average Order Value :- Revanue Per Order
+        4.Rating Count :- Total number of Customer reviews.
+        5.Total orders :- Number of food Order received.
+
+    BUsiness Requirement Development (BRD) : Chart's
+        1.Monthly Sales Trend :- Shows how total sales fluctuate Month by Month.
+        2.Daily Sales Trend :- Highlights order and revanue variations across days of the week.
+        3.Total Sales by Food Type(Veg vs non-veg) :- Compares revanue contribution by cuisine type.
+        4.Total Sales by state(Map Visualization) :- Display state-wise revanue distribution.
+        5.Quarterly Performance Summary :- Combines Sales, Ratings, Orders by Quarter.
+        6.Top 5 Cities by Sales :- Identify Landing Cities contributing the most revanu.
+        7.Weekly Trend Analysis :- Monitors Weekly fluctuations in sales to identify consistency or peak period.
