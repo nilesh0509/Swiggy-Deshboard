@@ -46,13 +46,13 @@ To build a dashboard that helps stakeholders:
 ### 📌 Swiggy Sales Dashboard
 > Below is the snapshot of the Excel dashboard created for this project:
 
-![Swiggy Sales Dashboard](./dashboard.png)
+![Swiggy Sales Dashboard](./Images/dashboard.png)
 
 > 📌 **Note:**  
 > - Replace `dashboard.png` with your actual image file name  
 > - Make sure the image is uploaded in the same GitHub repository  
 > - If the image is inside a folder (e.g. `images`), use:
->   `![Swiggy Dashboard](images/dashboard.png)`
+>   `![Swiggy Dashboard](/Images/dashboard.png)`
 
 ---
 
