@@ -48,11 +48,11 @@ To build a dashboard that helps stakeholders:
 
 ![Swiggy Sales Dashboard](./Images/dashboard.png)
 
-> 📌 **Note:**  
+<!-- > 📌 **Note:**  
 > - Replace `dashboard.png` with your actual image file name  
 > - Make sure the image is uploaded in the same GitHub repository  
 > - If the image is inside a folder (e.g. `images`), use:
->   `![Swiggy Dashboard](/Images/dashboard.png)`
+>   `![Swiggy Dashboard](/Images/dashboard.png)` -->
 
 ---
 
@@ -93,6 +93,6 @@ This Excel dashboard provides a **clear, interactive, and data-driven view of Sw
 ---
 
 ## 👤 Author
-**Your Name**  
+**Nilesh**  
 📊 Aspiring Data Analyst  
 🛠️ Skills: Excel | Data Analysis | Dashboarding
